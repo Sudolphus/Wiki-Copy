@@ -10,7 +10,9 @@ _This is a copy of Wikipedia's home page, in form if not in function, meant to d
 
 ## Setup/Installation Requirements
 
-* _Download or Clone the repository_
+* _Download or Clone the repository_ 
+  #### git clone https://github.com/Sudolphus/Wiki-Copy
+* _Also viewable on [GH Pages](https://sudolphus.github.io/Wiki-Copy/)_
 * _Open in Chrome_
 
 ## Known Bugs
