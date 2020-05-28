@@ -1,0 +1,14 @@
+.sidebar {
+  float: left;
+  width: 10em;
+  padding-left: 0.5em;
+  font-family: sans-serif;
+  background-color: #f6f6f6;
+}
+
+.top_right_links {
+  font-size: 12px;
+  font-family: sans-serif;
+  text-align: right;
+  
+}
