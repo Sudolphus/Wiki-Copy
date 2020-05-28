@@ -12,10 +12,14 @@ h2 {
 
 img.left {
   float: left;
+  height: 160px;
+  width: 120px;
 }
 
 img.right {
   float: right;
+  height: 160px;
+  width: 120px;
 }
 
 .top_banner {
